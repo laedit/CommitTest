@@ -6,4 +6,4 @@ isbn: 9782290032954
 editor: J'ai Lu
 ---
 
-![Couverture](/img/site/img/9782290032954.jpg)
+![Couverture](/img/9782290032954.jpg)
